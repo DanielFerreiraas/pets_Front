@@ -1,7 +1,7 @@
 # pets_Front
 Esse é o front-end do meu projeto pessoal, que consiste em um sistema de administração de Pet Shop, o front-end foi construído com Reactjs ultilizando MaterialUI para estilização.
 
-# Passo a passo para clonar o projeto
+# Passo a passo para rodar o projeto
 
 - Copie a URL do repositório e faça um clone do projeto
 - Abra o projeto no vsCode e digite no terminal, o comando "npm install"
